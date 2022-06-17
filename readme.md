@@ -62,6 +62,8 @@ python main.py
 
 
 7. watch a sample video here on my face
+[here](https://youtu.be/AsUoQQ1SX4M)
+
 
 <img src = './head_pose_estimation2.jpg'>
 --------
